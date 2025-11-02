@@ -49,7 +49,7 @@
 ![Machine Learning](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 [![LangGraph](https://img.shields.io/badge/LangGraph-orange?logo=python&logoColor=white)](https://www.langchain.com/langgraph) 
 [![Groq](https://img.shields.io/badge/Groq-ff69b4?logo=groq&logoColor=white)](https://www.groq.com/) 
-[![AI Agent](https://img.shields.io/badge/AI%20Agent-lightgrey?logo=robot&logoColor=white)(https://en.wikipedia.org/wiki/Intelligent_agent)
+[![AI Agent](https://img.shields.io/badge/AI%20Agent-lightgrey?logo=robot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -69,7 +69,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chdh11&show_icons=true&theme=radical" alt="Chhavi's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chdh11&layout=compact&theme=radical" alt="Top languages used" />
 </p>
 
